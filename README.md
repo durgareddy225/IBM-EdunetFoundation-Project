@@ -42,8 +42,10 @@ A regression model was built using **IBM Watsonx.ai Studio AutoAI**, leveraging 
 The model achieved accurate predictions of **total case registrations** using demographic and regional inputs. It helped highlight low-performing districts and provided insights for policy optimization.
 ### INPUT DATA
 <img width="1528" height="767" alt="image" src="https://github.com/user-attachments/assets/bacab752-5bdb-4dab-91f9-a34be8bce4ad" />
+
 ### PREDICTION RESULT
 <img width="1528" height="767" alt="image" src="https://github.com/user-attachments/assets/f2b6a20b-89df-4b37-b002-9a0e0025d90d" />
+
 ### MODEL PREDICTION ACCURACY: COMPARISION WITH ACTUAL DATA
 <img width="1528" height="767" alt="image" src="https://github.com/user-attachments/assets/3cfda7ba-c073-4036-8aa8-98e1cb0d1223" />
 
