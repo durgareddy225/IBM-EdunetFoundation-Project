@@ -9,7 +9,9 @@ This project analyzes demographic and regional disparities in Tele-Law service u
 
 ## Problem Statement:
 **Analyzing Demographic and Regional Disparities in Tele-Law Case Registrations for Inclusive Legal Access.**
+
 Despite the rapid expansion of the Tele-Law initiative across Indian states and districts, disparities in usage across gender, caste, and geography remain insufficiently understood. Certain marginalized communities—such as **SC, ST, and OBC** and underserved districts report low engagement. This raises concerns about **equity in legal aid access**. Additionally, varying **CSC (Common Service Centres)** counts complicate direct comparisons between regions.
+
 This project addresses these challenges through a **data-driven predictive model** that forecasts Tele-Law case registrations, offering **actionable insights for policymakers** to ensure inclusive and optimized legal service delivery.
 
 ---
@@ -52,4 +54,4 @@ The model achieved accurate predictions of **total case registrations** using de
 ---
 
 ## Conclusion:
-The project successfully developed a predictive system for analyzing legal aid access disparities using **IBM Watsonx.ai Studio**. The model enables **informed decision-making** to support equitable **Tele-Law service distribution** across India.
+I successfully developed a predictive system using **IBM Watsonx.ai Studio** to analyze demographic and regional disparities in legal aid access under the **Tele-Law initiative**. The model enables **data-driven decision-making** and helps promote equitable distribution of legal services across Indian districts.
