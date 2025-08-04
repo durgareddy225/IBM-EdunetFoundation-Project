@@ -3,6 +3,7 @@
 This project analyzes demographic and regional disparities in Tele-Law service utilization using a machine learning model. By predicting the total number of case registrations per district, the system provides insights to support equitable legal service delivery across India.
 
 **Capstone Project | IBM & Edunet Foundation Initiative**
+
 **Developed by:** *Durga Reddy Karri, Department of Computer Science and Engineering, Lovely Professional University*
 
 ---
