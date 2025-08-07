@@ -56,3 +56,9 @@ The model achieved accurate predictions of **total case registrations** using de
 
 ## Conclusion:
 I successfully developed a predictive system using **IBM Watsonx.ai Studio** to analyze demographic and regional disparities in legal aid access under the **Tele-Law initiative**. The model enables **data-driven decision-making** and helps promote equitable distribution of legal services across Indian districts.
+
+---
+
+## Acknowledgment  
+I sincerely thank the Edunet Foundation and IBM Cloud for providing the platform and tools for this project.  
+Special thanks to [Aswini Kumar Sir](https://github.com/AswiniKumar55) for his valuable guidance and mentorship throughout the development.
